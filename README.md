@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Ambikagupta0807/DSA_practice/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Ambikagupta0807/DSA_practice/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/Ambikagupta0807/DSA_practice/tree/master/1004-max-consecutive-ones-iii) |
+| [1480-running-sum-of-1d-array](https://github.com/Ambikagupta0807/DSA_practice/tree/master/1480-running-sum-of-1d-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Ambikagupta0807/DSA_practice/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/Ambikagupta0807/DSA_practice/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/Ambikagupta0807/DSA_practice/tree/master/1004-max-consecutive-ones-iii) |
+| [1480-running-sum-of-1d-array](https://github.com/Ambikagupta0807/DSA_practice/tree/master/1480-running-sum-of-1d-array) |
 ## Queue
 |  |
 | ------- |

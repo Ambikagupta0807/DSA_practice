@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Ambikagupta0807/DSA_practice/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Ambikagupta0807/DSA_practice/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Ambikagupta0807/DSA_practice/tree/master/0283-move-zeroes) |
+| [0704-binary-search](https://github.com/Ambikagupta0807/DSA_practice/tree/master/0704-binary-search) |
 ## Hash Table
 |  |
 | ------- |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Ambikagupta0807/DSA_practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Ambikagupta0807/DSA_practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Ambikagupta0807/DSA_practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0704-binary-search](https://github.com/Ambikagupta0807/DSA_practice/tree/master/0704-binary-search) |
 ## Divide and Conquer
 |  |
 | ------- |

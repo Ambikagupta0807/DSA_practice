@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Ambikagupta0807/DSA_practice/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/Ambikagupta0807/DSA_practice/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Ambikagupta0807/DSA_practice/tree/master/0724-find-pivot-index) |
+| [1004-max-consecutive-ones-iii](https://github.com/Ambikagupta0807/DSA_practice/tree/master/1004-max-consecutive-ones-iii) |
 ## Hash Table
 |  |
 | ------- |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ambikagupta0807/DSA_practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1004-max-consecutive-ones-iii](https://github.com/Ambikagupta0807/DSA_practice/tree/master/1004-max-consecutive-ones-iii) |
 ## Binary Search
 |  |
 | ------- |
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Ambikagupta0807/DSA_practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Ambikagupta0807/DSA_practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0704-binary-search](https://github.com/Ambikagupta0807/DSA_practice/tree/master/0704-binary-search) |
+| [1004-max-consecutive-ones-iii](https://github.com/Ambikagupta0807/DSA_practice/tree/master/1004-max-consecutive-ones-iii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -111,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Ambikagupta0807/DSA_practice/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/Ambikagupta0807/DSA_practice/tree/master/0724-find-pivot-index) |
+| [1004-max-consecutive-ones-iii](https://github.com/Ambikagupta0807/DSA_practice/tree/master/1004-max-consecutive-ones-iii) |
 ## Queue
 |  |
 | ------- |

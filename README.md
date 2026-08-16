@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Ambikagupta0807/DSA_practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Ambikagupta0807/DSA_practice/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Ambikagupta0807/DSA_practice/tree/master/0238-product-of-array-except-self) |
+| [0283-move-zeroes](https://github.com/Ambikagupta0807/DSA_practice/tree/master/0283-move-zeroes) |
 ## Hash Table
 |  |
 | ------- |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ambikagupta0807/DSA_practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/Ambikagupta0807/DSA_practice/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/Ambikagupta0807/DSA_practice/tree/master/0125-valid-palindrome) |
+| [0283-move-zeroes](https://github.com/Ambikagupta0807/DSA_practice/tree/master/0283-move-zeroes) |
 ## Greedy
 |  |
 | ------- |

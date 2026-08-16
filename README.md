@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Ambikagupta0807/DSA_practice/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Ambikagupta0807/DSA_practice/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/Ambikagupta0807/DSA_practice/tree/master/0704-binary-search) |
+| [0724-find-pivot-index](https://github.com/Ambikagupta0807/DSA_practice/tree/master/0724-find-pivot-index) |
 ## Hash Table
 |  |
 | ------- |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Ambikagupta0807/DSA_practice/tree/master/0238-product-of-array-except-self) |
+| [0724-find-pivot-index](https://github.com/Ambikagupta0807/DSA_practice/tree/master/0724-find-pivot-index) |
 ## Queue
 |  |
 | ------- |

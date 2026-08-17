@@ -8,7 +8,10 @@ class Solution(object):
 
         
         for ch in s:
-            count[ch] = count.get(ch, 0) + 1
+            if ch in count:
+                count[ch] = count[ch] +1
+            else:
+                count[ch] = 1
 
         
         for i in range(len(s)):

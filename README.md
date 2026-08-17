@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ambikagupta0807/DSA_practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Ambikagupta0807/DSA_practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Ambikagupta0807/DSA_practice/tree/master/0042-trapping-rain-water) |
+| [0049-group-anagrams](https://github.com/Ambikagupta0807/DSA_practice/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Ambikagupta0807/DSA_practice/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ambikagupta0807/DSA_practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Ambikagupta0807/DSA_practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Ambikagupta0807/DSA_practice/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ambikagupta0807/DSA_practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/Ambikagupta0807/DSA_practice/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Ambikagupta0807/DSA_practice/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Ambikagupta0807/DSA_practice/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Ambikagupta0807/DSA_practice/tree/master/0387-first-unique-character-in-a-string) |
@@ -35,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ambikagupta0807/DSA_practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/Ambikagupta0807/DSA_practice/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ambikagupta0807/DSA_practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0049-group-anagrams](https://github.com/Ambikagupta0807/DSA_practice/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Ambikagupta0807/DSA_practice/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Ambikagupta0807/DSA_practice/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Ambikagupta0807/DSA_practice/tree/master/0344-reverse-string) |
@@ -108,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Ambikagupta0807/DSA_practice/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Ambikagupta0807/DSA_practice/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Ambikagupta0807/DSA_practice/tree/master/0242-valid-anagram) |
 ## Prefix Sum
